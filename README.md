@@ -1,6 +1,6 @@
 # Chart a Course
 <p align="center"> 
-<img src="Graphics/ChartACourseFull.jpg" height="200">
+<img src="Graphics/ChartACourseFull.jpg">
 </p>
 
 How does a student's path through our system connect with their performance in math?
@@ -14,17 +14,17 @@ Every student has personal attributes that they bring to school. Student learnin
 ## How to read the display ##
 Each student on the display is represented by a star. A star is made of 5 rays, representing the five grade levels (3 - 7). Grade 3 is in the 12 o'clock position, and the rest follow as you move clockwise around the star. If a student didn't attend one of our schools for a given grade level, there is no ray at that position.
 <p align="left"> 
-<img src="Graphics/Star%20Legend.png">
+<img src="Graphics/Star%20Legend.png" height="150">
 </p>
 The paper colour for each ray shows what the performance level was on the state math assessment for that grade. Orange is level one (well below standard), yellow is level two (below standard), light blue is level three (at standard), and dark blue is level four (above standard). Each ray is wrapped in a piece of coloured paper to indicate a particular teacher/school. We have six elementary schools serving grades 3 - 5, so there are six sets of colours: orange, purple, green, blue, red, and yellow. There are two middle schools serving grades 6 - 7, represented by blue and red. If a student attended one of our schools at a given grade level, but didn't take the test, the ray has the outer wrapper and is empty for the performance level.
 
 On the inside of each star are four round disks of paper in white (w) and grey (g).
 <p align="left"> 
-<img src="Graphics/Star%20Interior.png">
+<img src="Graphics/Star%20Interior.png" height="150">
 </p>
 Here is a small group of students that shows the variations by missing grade levels, missing scores, gender, etc:
 <p align="left"> 
-<img src="Graphics/Star%20Group.png">
+<img src="Graphics/Star%20Group.png" height="150">
 </p>
 
 Coded names of teachers and students were uploaded into the [Connect the Dots](https://databasic.io/en/connectthedots/) tool to identify connections. These were used to form constellations of students who had similar experiences in terms of teachers or courses. Each of our six elementary schools has it's own board. Constellations for the school are placed and then identified with a small graphic (like the one shown at the right) to build understanding in viewers. 
