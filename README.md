@@ -1,4 +1,4 @@
-# ChartACourse
+# Chart a Course
 <p align="center"> 
 <img src="https://github.com/tlricherson/ChartACourse/blob/master/Graphics/01 Chart a Course Full.jpg">
 </p>
