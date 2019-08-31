@@ -5,7 +5,7 @@
 
 How does a student's path through our system connect with their performance in math?
 
-[Overview](https://github.com/tlricherson/ChartACourse/blob/master/README.md#Overview) | [How to read the display](https://github.com/tlricherson/ChartACourse/blob/master/README.md#how-to-read-the-display) | [Construction](https://github.com/tlricherson/ChartACourse/blob/master/README.md#construction) | [Learn more](https://github.com/tlricherson/ChartACourse/blob/master/README.md#learn-more) | [About the artist](https://github.com/tlricherson/ChartACourse/blob/master/README.md#about-the-artist)
+[Overview](https://tlricherson.github.io/ChartACourse/#overview) | [How to read the display](https://tlricherson.github.io/ChartACourse/#how-to-read-the-display) | [Construction](https://tlricherson.github.io/ChartACourse/#construction) | [Learn more](https://tlricherson.github.io/ChartACourse/#learn-more) | [About the artist](https://tlricherson.github.io/ChartACourse/#about-the-artist)
 
 ## Overview ##
 Every student has personal attributes that they bring to school. Student learning is affected also by other factors, such as curriculum and instruction. In this story, we look at how the external sequence of teachers and courses connects with the internal factors of students to impact longitudinal performance in math.
