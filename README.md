@@ -11,8 +11,26 @@ How does a student's path through our system connect with their performance in m
 Every student has personal attributes that they bring to school. Student learning is affected also by other factors, such as curriculum and instruction. In this story, we look at how the external sequence of teachers and courses connects with the internal factors of students to impact longitudinal performance in math.
 
 
-
 ## How to read the display ##
+Each student on the display is represented by a star. A star is made of 5 rays, representing the five grade levels (3 - 7). Grade 3 is in the 12 o'clock position, and the rest follow as you move clockwise around the star. If a student didn't attend one of our schools for a given grade level, there is no ray at that position.
+<p align="left"> 
+<img src="https://github.com/tlricherson/ChartACourse/blob/master/Graphics/Star%20Legend.png">
+</p>
+The paper colour for each ray shows what the performance level was on the state math assessment for that grade. Orange is level one (well below standard), yellow is level two (below standard), light blue is level three (at standard), and dark blue is level four (above standard). Each ray is wrapped in a piece of coloured paper to indicate a particular teacher/school. We have six elementary schools serving grades 3 - 5, so there are six sets of colours: orange, purple, green, blue, red, and yellow. There are two middle schools serving grades 6 - 7, represented by blue and red. If a student attended one of our schools at a given grade level, but didn't take the test, the ray has the outer wrapper and is empty for the performance level.
+
+
+On the inside of each star are four round disks of paper in white (w) and grey (g).
+
+
+
+Note that we did not have any non-binary students at this grade level last year, so male and female were the only categories. I also collapsed our students of colour into one category, and while I strongly believe that this is not best practice, I am also legally obligated to protect personally identifiable information about students. At this grade level, we have some racial populations with only two or three students. When faced with a choice of leaving race out of the conversation completely or summarizing it into two categories...I chose Option B. Certainly, there are other data points I could have selected here, such as attendance or discipline. But I like that the center of the star includes some "internal" attributes that students bring with them, while the outer rays represent the "external" pieces in the form of teachers and system outcomes.
+
+
+Here is a small group of students that shows the variations by missing grade levels, missing scores, gender, etc:
+
+
+
+
 
 
 
@@ -29,6 +47,6 @@ Additional details about all of the displays are available on our district [Data
 
 
 ## About the artist ##
-'m a a career educator, with K - 12 experience in science curriculum, instructional coaching, and both small- and large-scale assessment. I currently work for a school district supervising assessments, presenting data, and completing other duties as assigned. I present at various state and national conferences on subjects like grading practices, data visualization, and classroom technology integration. 
+I'm a a career educator, with K - 12 experience in science curriculum, instructional coaching, and both small- and large-scale assessment. I currently work for a school district supervising assessments, presenting data, and completing other duties as assigned. I present at various state and national conferences on subjects like grading practices, data visualization, and classroom technology integration. 
 
 [Contact](mailto:tara.richerson@gmail.com) | [Blog](http://excelforeducators.blogspot.com/) | [Twitter](https://twitter.com/science_goddess) | [LinkedIn](https://www.linkedin.com/in/tara-richerson-9b593753/)
