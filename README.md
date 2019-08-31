@@ -1,6 +1,6 @@
 # Chart a Course
 <p align="center"> 
-<img src="https://github.com/tlricherson/ChartACourse/blob/master/Graphics/01 Chart a Course Full.jpg">
+<img src="https://github.com/tlricherson/ChartACourse/master/Graphics/ChartACourseFull.jpg">
 </p>
 
 How does a student's path through our system connect with their performance in math?
