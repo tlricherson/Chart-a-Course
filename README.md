@@ -20,20 +20,13 @@ The paper colour for each ray shows what the performance level was on the state 
 
 
 On the inside of each star are four round disks of paper in white (w) and grey (g).
-
-
-
-Note that we did not have any non-binary students at this grade level last year, so male and female were the only categories. I also collapsed our students of colour into one category, and while I strongly believe that this is not best practice, I am also legally obligated to protect personally identifiable information about students. At this grade level, we have some racial populations with only two or three students. When faced with a choice of leaving race out of the conversation completely or summarizing it into two categories...I chose Option B. Certainly, there are other data points I could have selected here, such as attendance or discipline. But I like that the center of the star includes some "internal" attributes that students bring with them, while the outer rays represent the "external" pieces in the form of teachers and system outcomes.
-
-
+<p align="left"> 
+<img src="https://github.com/tlricherson/ChartACourse/blob/master/Graphics/Star%20Interior.png">
+</p>
 Here is a small group of students that shows the variations by missing grade levels, missing scores, gender, etc:
-
-
-
-
-
-
-
+<p align="left"> 
+<img src="https://github.com/tlricherson/ChartACourse/blob/master/Graphics/Star%20Group.png">
+</p>
 
 ## Construction ##
 The display represents 452 students and is made of more than 3200 pieces of quilled paper held together by glue. Each student representation is attached to a fabric-covered cork board by at least one map pin.
