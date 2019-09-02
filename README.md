@@ -5,9 +5,9 @@
 
 How does a student's path through our system connect with their performance in math?
 
-<p align="center">
+<div class="align-center">
 [Overview](https://tlricherson.github.io/ChartACourse/#overview) | [How to read the display](https://tlricherson.github.io/ChartACourse/#how-to-read-the-display) | [Construction](https://tlricherson.github.io/ChartACourse/#construction) | [Learn more](https://tlricherson.github.io/ChartACourse/#learn-more) | [About the artist](https://tlricherson.github.io/ChartACourse/#about-the-artist)
-</p>  
+</div>  
 
 ## Overview ##
 Every student has personal attributes that they bring to school. Student learning is affected also by other factors, such as curriculum and instruction. In this story, we look at how the external sequence of teachers and courses connects with the internal factors of students to impact longitudinal performance in math.
@@ -47,6 +47,6 @@ Additional details about all of the displays are available on our district [Data
 ## About the artist ##
 I'm a a career educator, with K - 12 experience in science curriculum, instructional coaching, and both small- and large-scale assessment. I currently work for a school district supervising assessments, presenting data, and completing other duties as assigned. I present at various state and national conferences on subjects like grading practices, data visualization, and classroom technology integration. 
 
-<p align="center">
+<div class="align-center">
 [Contact](mailto:tara.richerson@gmail.com) | [Blog](http://excelforeducators.blogspot.com/) | [Twitter](https://twitter.com/science_goddess) | [LinkedIn](https://www.linkedin.com/in/tara-richerson-9b593753/)
-</p>
+</div>
